@@ -1,0 +1,39 @@
+KORREKT PRODUKT-MAPPING
+
+1. Henger – 49 kr
+   Bilde: assets/henger.jpg
+   Stripe: https://buy.stripe.com/fZufZg3Gv3hG8Iq7915Rm04
+
+2. Frukt & bær-vasker – 199 kr
+   Bilde: assets/frukt.jpg
+   Stripe: https://buy.stripe.com/dRmcN40ujaK89Muald5Rm05
+
+3. Nøkkel holder – 199 kr
+   Bilde: assets/nokkel-holder.jpg
+   Stripe: https://buy.stripe.com/bJe6oGa4T6tS6Aiald5Rm06
+
+4. Figur – 149 kr
+   Bilde: assets/figur.jpg
+   Stripe: https://buy.stripe.com/aFadR8b8XcSg4sagJB5Rm07
+
+5. Elegant Plantevase – 499 kr
+   Bilde: assets/elegant-plantevase.jpg
+   Stripe: https://buy.stripe.com/8x28wO4KzcSg5wectl5Rm08
+
+6. Egg-holder – 149 kr
+   Bilde: assets/egg-holder.jpg
+   Stripe: https://buy.stripe.com/8x29ASdh56tSf6OgJB5Rm09
+
+7. Moderne Spiral Vase – 299 kr
+   Bilde: assets/moderne-spiral-vase.jpg
+   Stripe: https://buy.stripe.com/bJeeVc7WL2dCe2K64X5Rm0a
+
+8. Minimalist Loop Vase – 399 kr
+   Bilde: assets/minimalist-loop-vase.jpg
+   Stripe: https://buy.stripe.com/fZuaEW1yn4lK3o67915Rm0b
+
+9. Premium Design Vase – 299 kr
+   Bilde: assets/premium-design-vase.jpg
+   Stripe: https://buy.stripe.com/aFa9AS5OD9G43o6ald5Rm0c
+
+Merk: Ekstra lenke for "moderne spiralvase" er ikke lagt inn som eget produkt fordi Stripe-katalogen viser 9 aktive produkter. Det hindrer duplikat.

@@ -1,0 +1,15 @@
+{
+  "name": "fabrixo3d-v4-checkout",
+  "version": "4.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "cors": "latest",
+    "dotenv": "latest",
+    "express": "latest",
+    "stripe": "latest"
+  }
+}
