@@ -17,7 +17,7 @@ const PORT = process.env.PORT || 3000;
 const FRONTEND_URL = process.env.FRONTEND_URL || `http://localhost:${PORT}`;
 
 const ALLOWED_PRICE_IDS = new Set([
-  "price_1TvxWCAfQkuPhGQMCXQPdrep", // Henger
+  "price_1TVxWCAfQkuPhGQMCXQPdrep", // Henger
   "price_1TVxUVAfQkuPhGQMa46dZTQA", // Frukt
   "price_1TVxSvAfQkuPhGQMbUR4xDOx", // Nøkkel holder
   "price_1TVxRCAfQkuPhGQMpLbPYBjQ", // Figur
